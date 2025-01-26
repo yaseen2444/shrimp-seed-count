@@ -1,3 +1,6 @@
+
+![Project Banner](banner.jpg)
+
 ## Shrimp-Seed-Counter 
 
 - This project focuses on detecting prawns-seeds in images using a Faster R-CNN model with a ResNet backbone. Designed for aquaculture applications, it leverages cutting-edge deep learning techniques like region proposal networks and Slicing-Aided Hyper Inference (SAHI) to achieve accurate detection, even for small objects. The project is ideal for researchers and developers in computer vision and aquaculture, seeking to automate prawn-seed detection with high precision.
