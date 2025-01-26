@@ -30,7 +30,7 @@
 
 ## Demo
 
-This is a link to visit out demo.(https://8503-01jff55mrhm0wpp0h15zrz0tfq.cloudspaces.litng.ai )
+This is a link to visit out demo.(https://www.youtube.com/watch?v=StxUNM17PMw)
 
 
 ## Documentation
@@ -126,9 +126,7 @@ Here are some related projects
 
 ## Screenshots of working of project.
 
-![Image To Count](tests/sample_data/IMG_7236.JPG)
-![Output Image](https://github.com/yaseen2444/shrimp-seed-count/tests/sample_data/IMG_7235.JPG)
-
+![Input - Outpu](Screenshot_26-1-2025_102939_.jpeg?width=600)
 
 ## Optimizations
 
