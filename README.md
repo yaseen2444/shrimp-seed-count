@@ -126,7 +126,7 @@ Here are some related projects
 
 ## Screenshots of working of project.
 
-![Image To Count](https://github.com/yaseen2444/shrimp-seed-count/tests/sample_data/IMG_7235.JPG)
+![Image To Count](tests/sample_data/IMG_7236.JPG)
 ![Output Image](https://github.com/yaseen2444/shrimp-seed-count/tests/sample_data/IMG_7235.JPG)
 
 
