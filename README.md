@@ -1,4 +1,3 @@
-
 ## Shrimp-Seed-Counter 
 
 - This project focuses on detecting prawns-seeds in images using a Faster R-CNN model with a ResNet backbone. Designed for aquaculture applications, it leverages cutting-edge deep learning techniques like region proposal networks and Slicing-Aided Hyper Inference (SAHI) to achieve accurate detection, even for small objects. The project is ideal for researchers and developers in computer vision and aquaculture, seeking to automate prawn-seed detection with high precision.
@@ -6,18 +5,18 @@
 
 ## Acknowledgements
 
- - This project was made possible by the efforts of the Computer Vision Team. Special thanks to:
+- This project was made possible by the efforts of the Computer Vision Team. Special thanks to:
 
 - Roboflow for providing the prawn dataset for dataset management.(https://roboflow.com/)
-  
+
 - Developers and contributors of SAHI (Slicing Aided  Hyper Inference) for improving small object detection capabilities. (https://blog.roboflow.com/how-to-use-sahi-to-detect-small-objects/)
- - COCO Dataset contributors for pre-trained weights that enabled effective transfer learning.
+- COCO Dataset contributors for pre-trained weights that enabled effective transfer learning.
 (https://universe.roboflow.com/yaseen-vgnae/ shrimp-counting-j5era)
 
 - PyTorch for the deep learning framework used in model implementation.(https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html)
 
 - How to Train Detectron2 on Custom Object(Blog).
-  (https://colab.research.google.com/drive/1-TNOcPm3Jr3fOJG8rnGT9gh60mHUsvaW)
+(https://colab.research.google.com/drive/1-TNOcPm3Jr3fOJG8rnGT9gh60mHUsvaW)
 
 - Faster R-CNN Paper.(https://arxiv.org/abs/1506.01497)
 - ResNet Paper.(https://arxiv.org/abs/1512.03385)
@@ -40,7 +39,7 @@ This is a link to visit out demo.(https://8503-01jff55mrhm0wpp0h15zrz0tfq.clouds
 
 
 ## 🚀 About Me
- 
+
 
 ---
 
@@ -48,19 +47,19 @@ I’m Yaseen Mohammad, a passionate tech enthusiast specializing in machine lear
 
 ### Highlights  
 - **Key Projects**:  
-  - Prawn seed detection using Faster R-CNN.  
-  - Smart Traffic Management using YOLO and RL for dynamic signal control.  
-  - Speech-enabled safety app for women and child safety leveraging ASR and AI-generated context analysis.  
-  - SUMO-based traffic simulations integrated with PPO and DeePPO algorithms for optimization.  
+- Prawn seed detection using Faster R-CNN.  
+- Smart Traffic Management using YOLO and RL for dynamic signal control.  
+- Speech-enabled safety app for women and child safety leveraging ASR and AI-generated context analysis.  
+- SUMO-based traffic simulations integrated with PPO and DeePPO algorithms for optimization.  
 
 - **Innovative Concepts**:  
-  - Retrieval-Augmented Generation (RAG) chatbots with RLHF integration.  
-  - Short-term memory buffer ASR systems for emergency response applications.  
-  - Inference slicing for small object detection in high-density images.  
+- Retrieval-Augmented Generation (RAG) chatbots with RLHF integration.  
+- Short-term memory buffer ASR systems for emergency response applications.  
+- Inference slicing for small object detection in high-density images.  
 
 - **Problem-Solving**:  
-  - Addressed real-world challenges during hackathons, including Smart India Hackathon and college-level competitions.  
-  - Designed creative, scalable solutions blending AI with practical needs, such as traffic systems and safety apps.  
+- Addressed real-world challenges during hackathons, including Smart India Hackathon and college-level competitions.  
+- Designed creative, scalable solutions blending AI with practical needs, such as traffic systems and safety apps.  
 
 ### Goals  
 I am committed to leveraging AI to solve real-world problems, making technology accessible and impactful. My aim is to create innovative tools that enhance workflows, improve safety, and address pressing global challenges.  
@@ -119,23 +118,11 @@ Provides success/error messages to guide users.
 
 - This project is proprietary and may not be used, modified, or distributed without explicit permission from the project owner.
 
-
-
 ## Related
 
 Here are some related projects
 
 [Project Repo](https://github.com/yaseen2444/book-rec.git)
-
-
-## Running Tests
-
-To run tests, run the following command
-
-```bash
-  npm run test
-```
-
 
 ## Screenshots
 
