@@ -1,0 +1,13 @@
+Roboflow for providing the prawn dataset for dataset management.(https://roboflow.com/)
+
+Developers and contributors of SAHI (Slicing Aided Hyper Inference) for improving small object detection capabilities. (https://blog.roboflow.com/how-to-use-sahi-to-detect-small-objects/)
+
+COCO Dataset contributors for pre-trained weights that enabled effective transfer learning. (https://universe.roboflow.com/yaseen-vgnae/ shrimp-counting-j5era)
+
+PyTorch for the deep learning framework used in model implementation.(https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html)
+
+How to Train Detectron2 on Custom Object(Blog). (https://colab.research.google.com/drive/1-TNOcPm3Jr3fOJG8rnGT9gh60mHUsvaW)
+
+Faster R-CNN Paper.(https://arxiv.org/abs/1506.01497)
+
+ResNet Paper.(https://arxiv.org/abs/1512.03385)
