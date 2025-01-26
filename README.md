@@ -1,5 +1,5 @@
 
-![Project Banner](banner.jpg)
+![Project Banner](banner.jpg?raw=true)
 
 ## Shrimp-Seed-Counter 
 
