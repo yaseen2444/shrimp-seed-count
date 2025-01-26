@@ -124,9 +124,10 @@ Here are some related projects
 
 [Project Repo](https://github.com/yaseen2444/book-rec.git)
 
-## Screenshots
+## Screenshots of working of project.
 
-![App Screenshot](https://imgur.com/undefined)
+![Image To Count](https://github.com/yaseen2444/shrimp-seed-count/tests/sample_data/IMG_7235.JPG)
+![Output Image](https://github.com/yaseen2444/shrimp-seed-count/tests/sample_data/IMG_7235.JPG)
 
 
 ## Optimizations
