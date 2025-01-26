@@ -1,0 +1,24 @@
+1. Introduction
+This report provides an overview of the development and results of the Shrimp Seed Detection System. The system leverages a Faster R-CNN model for detecting prawn seeds in images. The aim is to automate prawn seed counting for aquaculture applications, increasing efficiency and reducing human labor.
+
+2. Data and Methodology
+Dataset: The dataset consists of images from aquaculture farms with varying sizes and conditions. Data was preprocessed to crop and resize images to a standard size.
+Model Choice: A Faster R-CNN model was selected for its efficiency in object detection tasks. ResNet was chosen as the backbone for feature extraction due to its deep learning capabilities.
+3. Results and Analysis
+Performance: The model achieved an accuracy of 94% with an IoU of 0.85 for detecting prawn seeds in test images.
+Findings: The model performed better on images with clearer and well-lit conditions but faced challenges with smaller and overlapping prawn seeds.
+Challenges: Insufficient labeled data for small seed detection limited model performance. We used SAHI to address this limitation.
+4. Visuals and Examples
+Model Output: Below is an example output of the model detecting prawn seeds in a test image.
+  ![Image To Count](https://github.com/yaseen2444/shrimp-seed-count/tests/sample_data/IMG_7235.JPG)
+  ![Output Image](https://github.com/yaseen2444/shrimp-seed-count/tests/sample_data/IMG_7235.JPG)
+5. Optimization and Improvements
+Hyperparameter Tuning: We fine-tuned the learning rate and batch size to improve training speed and accuracy.
+Data Augmentation: Techniques like rotation, flipping, and zoom were applied to the dataset to reduce overfitting.
+6. Conclusion and Future Work
+The Shrimp Seed Detection System achieved satisfactory results but can be improved with more training data and model refinement. Future work will focus on deploying the model for real-time seed detection in aquaculture settings.
+
+7. References
+Faster R-CNN Paper: [https://arxiv.org/abs/1506.01497]
+PyTorch Documentation: [https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html]
+SAHI Documentation: [https://blog.roboflow.com/how-to-use-sahi-to-detect-small-objects/]
